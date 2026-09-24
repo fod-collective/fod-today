@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-09-24T08:52:00-06:00",
+  "timezone": "America/Mexico_City",
+  "date_label": "Thursday, Sep 24",
+  "headline": "Close the day. Protect the call.",
+  "north_star": {
+    "revenue_target": 50000,
+    "revenue_now_approx": 20000,
+    "clients_target": 4,
+    "clients_closed_mtd": null,
+    "convos_target": 12,
+    "convos_done_mtd": null,
+    "convos_note": "Update MTD numbers in tomorrow’s pulse"
+  },
+  "tasks": [
+    {
+      "id": "prep-marcos",
+      "time": "Before 3:00 PM",
+      "title": "Prep Marcos Jackson sales call",
+      "detail": "Video agency owner. Goal: qualify for Collective/Mentorship. Have FREEDOM path + proof (Joshua / Jordan) ready. Zoom link on calendar.",
+      "category": "sales",
+      "priority": 1,
+      "done": false
+    },
+    {
+      "id": "inner-circle",
+      "time": "12:00 PM",
+      "title": "Run FOD Inner Circle",
+      "detail": "Zoom on calendar. Show up locked in — this is delivery + proof content fuel.",
+      "category": "deliver",
+      "priority": 2,
+      "done": false
+    },
+    {
+      "id": "group-coaching",
+      "time": "1:00–3:00 PM",
+      "title": "Freedom On-Demand Group Coaching Call",
+      "detail": "2-hour Collective call. Capture 1–2 belief lines you say out loud for Sunday’s content pack.",
+      "category": "deliver",
+      "priority": 2,
+      "done": false
+    },
+    {
+      "id": "marcos-call",
+      "time": "3:00 PM",
+      "title": "Sales call — Marcos Jackson",
+      "detail": "30 min. faithfulwavesmedia. This is 1 of ~12 conversations this month. Book next step or get a clear no.",
+      "category": "sales",
+      "priority": 1,
+      "done": false
+    },
+    {
+      "id": "story-cta",
+      "time": "Anytime before EOD",
+      "title": "Post Instagram Story — DM FREEDOM",
+      "detail": "One story. Hook: retention / leaking bucket. CTA: DM FREEDOM. Keeps inbound warm on a heavy delivery day.",
+      "category": "content",
+      "priority": 3,
+      "done": false
+    },
+    {
+      "id": "tedi",
+      "time": "12:00 PM",
+      "title": "Check TEDi Data",
+      "detail": "30-min block on calendar. Quick pass only — don’t let it eat the coaching window.",
+      "category": "ops",
+      "priority": 4,
+      "done": false
+    },
+    {
+      "id": "eod",
+      "time": "4:00 PM",
+      "title": "Slack Support / EOD Planning",
+      "detail": "Clear Slack. Note: conversations held today (Marcos + any others). Set tomorrow’s top 3.",
+      "category": "ops",
+      "priority": 3,
+      "done": false
+    },
+    {
+      "id": "film-note",
+      "time": "Optional / if energy",
+      "title": "Block weekend film slot",
+      "detail": "Long-form for Belief 2 (retention) — film by Sun Sep 28. Put a 90-min hold on Sat or Sun now so Sunday’s pack isn’t theoretical.",
+      "category": "content",
+      "priority": 4,
+      "done": false
+    }
+  ]
+}

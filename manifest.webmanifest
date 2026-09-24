@@ -1,0 +1,10 @@
+{
+  "name": "FOD Today",
+  "short_name": "FOD Today",
+  "description": "Freedom On-Demand daily command board",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070708",
+  "theme_color": "#070708",
+  "icons": []
+}
