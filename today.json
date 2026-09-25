@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T08:52:00-06:00",
+  "generated_at": "2026-09-25T07:57:34-06:00",
   "timezone": "America/Mexico_City",
-  "date_label": "Thursday, Sep 24",
-  "headline": "Close the day. Protect the call.",
+  "date_label": "Friday, Sep 25",
+  "headline": "Film Belief 2. Protect the CREATE block.",
   "north_star": {
     "revenue_target": 50000,
     "revenue_now_approx": 20000,
@@ -10,79 +10,61 @@
     "clients_closed_mtd": null,
     "convos_target": 12,
     "convos_done_mtd": null,
-    "convos_note": "Update MTD numbers in tomorrow’s pulse"
+    "convos_note": "Reply with clients closed MTD and conversations held MTD so the scoreboard sticks."
   },
   "tasks": [
     {
-      "id": "prep-marcos",
-      "time": "Before 3:00 PM",
-      "title": "Prep Marcos Jackson sales call",
-      "detail": "Video agency owner. Goal: qualify for Collective/Mentorship. Have FREEDOM path + proof (Joshua / Jordan) ready. Zoom link on calendar.",
-      "category": "sales",
+      "id": "film-belief-2",
+      "time": "12:30–3:30 PM",
+      "title": "CREATE: Film Belief 2 long-form",
+      "detail": "Title: You Don’t Have a Client Problem. You Have a Retention Problem. 20–35 min talking head. Energy over polish. CTA: DM FREEDOM. This is the shoot — weekends are family.",
+      "category": "content",
       "priority": 1,
       "done": false
     },
     {
-      "id": "inner-circle",
-      "time": "12:00 PM",
-      "title": "Run FOD Inner Circle",
-      "detail": "Zoom on calendar. Show up locked in — this is delivery + proof content fuel.",
-      "category": "deliver",
+      "id": "needle-mover",
+      "time": "9:00–11:00 AM",
+      "title": "Needle Mover",
+      "detail": "Protected morning block. Use it to clear the one thing that moves revenue today — not inbox theater.",
+      "category": "ops",
       "priority": 2,
       "done": false
     },
     {
-      "id": "group-coaching",
-      "time": "1:00–3:00 PM",
-      "title": "Freedom On-Demand Group Coaching Call",
-      "detail": "2-hour Collective call. Capture 1–2 belief lines you say out loud for Sunday’s content pack.",
-      "category": "deliver",
-      "priority": 2,
-      "done": false
-    },
-    {
-      "id": "marcos-call",
-      "time": "3:00 PM",
-      "title": "Sales call — Marcos Jackson",
-      "detail": "30 min. faithfulwavesmedia. This is 1 of ~12 conversations this month. Book next step or get a clear no.",
+      "id": "follow-up-block",
+      "time": "Before CREATE / after Needle",
+      "title": "15-min follow-up + book 1 slot",
+      "detail": "Weekly floor is 3 conversations. Text/DM warm FREEDOM leads and lock one calendar slot for next week. Consistency > volume.",
       "category": "sales",
-      "priority": 1,
+      "priority": 2,
       "done": false
     },
     {
       "id": "story-cta",
       "time": "Anytime before EOD",
-      "title": "Post Instagram Story — DM FREEDOM",
-      "detail": "One story. Hook: retention / leaking bucket. CTA: DM FREEDOM. Keeps inbound warm on a heavy delivery day.",
+      "title": "IG Story — DM FREEDOM",
+      "detail": "One story. Hook: leaking bucket / retention. CTA: DM FREEDOM. Keeps inbound warm while you film.",
       "category": "content",
       "priority": 3,
       "done": false
     },
     {
       "id": "tedi",
-      "time": "12:00 PM",
+      "time": "12:00–12:30 PM",
       "title": "Check TEDi Data",
-      "detail": "30-min block on calendar. Quick pass only — don’t let it eat the coaching window.",
+      "detail": "Quick pass only — wrap before CREATE starts at 12:30. Don’t let TEDi eat the film window.",
       "category": "ops",
       "priority": 4,
       "done": false
     },
     {
       "id": "eod",
-      "time": "4:00 PM",
+      "time": "4:00–5:00 PM",
       "title": "Slack Support / EOD Planning",
-      "detail": "Clear Slack. Note: conversations held today (Marcos + any others). Set tomorrow’s top 3.",
+      "detail": "Clear Slack. Log: film done Y/N + any conversations booked/held. Confirm Sat film is family-off (already moved to weekdays).",
       "category": "ops",
       "priority": 3,
-      "done": false
-    },
-    {
-      "id": "film-note",
-      "time": "Optional / if energy",
-      "title": "Block weekend film slot",
-      "detail": "Long-form for Belief 2 (retention) — film by Sun Sep 28. Put a 90-min hold on Sat or Sun now so Sunday’s pack isn’t theoretical.",
-      "category": "content",
-      "priority": 4,
       "done": false
     }
   ]
