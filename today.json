@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T07:57:34-06:00",
+  "generated_at": "2026-09-26T07:56:00-06:00",
   "timezone": "America/Mexico_City",
-  "date_label": "Friday, Sep 25",
-  "headline": "Film Belief 2. Protect the CREATE block.",
+  "date_label": "Saturday, Sep 26",
+  "headline": "Family day. Board stays quiet.",
   "north_star": {
     "revenue_target": 50000,
     "revenue_now_approx": 20000,
@@ -14,56 +14,29 @@
   },
   "tasks": [
     {
-      "id": "film-belief-2",
-      "time": "12:30–3:30 PM",
-      "title": "CREATE: Film Belief 2 long-form",
-      "detail": "Title: You Don’t Have a Client Problem. You Have a Retention Problem. 20–35 min talking head. Energy over polish. CTA: DM FREEDOM. This is the shoot — weekends are family.",
-      "category": "content",
+      "id": "family-day",
+      "time": "All day",
+      "title": "Family day — no CREATE, no sales",
+      "detail": "Saturday/Sunday are strictly family. Calendar is clear. Film already moved to Fri CREATE. Do not book calls or film blocks today.",
+      "category": "ops",
       "priority": 1,
       "done": false
     },
     {
-      "id": "needle-mover",
-      "time": "9:00–11:00 AM",
-      "title": "Needle Mover",
-      "detail": "Protected morning block. Use it to clear the one thing that moves revenue today — not inbox theater.",
-      "category": "ops",
-      "priority": 2,
-      "done": false
-    },
-    {
-      "id": "follow-up-block",
-      "time": "Before CREATE / after Needle",
-      "title": "15-min follow-up + book 1 slot",
-      "detail": "Weekly floor is 3 conversations. Text/DM warm FREEDOM leads and lock one calendar slot for next week. Consistency > volume.",
-      "category": "sales",
-      "priority": 2,
-      "done": false
-    },
-    {
-      "id": "story-cta",
-      "time": "Anytime before EOD",
-      "title": "IG Story — DM FREEDOM",
-      "detail": "One story. Hook: leaking bucket / retention. CTA: DM FREEDOM. Keeps inbound warm while you film.",
+      "id": "belief2-status",
+      "time": "Optional 2-min note",
+      "title": "Belief 2 — filmed Fri? (mental check only)",
+      "detail": "Long-form: You Don’t Have a Client Problem. You Have a Retention Problem. If Fri CREATE slipped, park a Mon film block — not today. CTA stays DM FREEDOM.",
       "category": "content",
-      "priority": 3,
+      "priority": 2,
       "done": false
     },
     {
-      "id": "tedi",
-      "time": "12:00–12:30 PM",
-      "title": "Check TEDi Data",
-      "detail": "Quick pass only — wrap before CREATE starts at 12:30. Don’t let TEDi eat the film window.",
-      "category": "ops",
-      "priority": 4,
-      "done": false
-    },
-    {
-      "id": "eod",
-      "time": "4:00–5:00 PM",
-      "title": "Slack Support / EOD Planning",
-      "detail": "Clear Slack. Log: film done Y/N + any conversations booked/held. Confirm Sat film is family-off (already moved to weekdays).",
-      "category": "ops",
+      "id": "monday-inputs",
+      "time": "Optional phone note",
+      "title": "Park Monday’s 3 inputs",
+      "detail": "When work resumes Mon: (1) Content CTA DM FREEDOM, (2) 15-min follow-up + book 1 slot, (3) keep weekly floor at 3 conversations. Consistency is the bottleneck — not weekend hustle.",
+      "category": "sales",
       "priority": 3,
       "done": false
     }
